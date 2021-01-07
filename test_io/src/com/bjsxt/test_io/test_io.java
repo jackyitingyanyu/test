@@ -4,6 +4,6 @@ import java.io.File;
 
 public class test_io {
 	public static void main(String[] args) {
-		
+		System.out.println("test");
 	}
 }
