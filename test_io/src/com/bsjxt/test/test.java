@@ -8,5 +8,6 @@ public class test {
 		
 		Object[] objects;
 		System.out.println();
+		System.out.println("well,well,here we go!");
 	}
 }
